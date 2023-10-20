@@ -1,0 +1,21 @@
+{
+  "name": "khulnasoft-lab/svg-icons",
+  "description": "SVG icons for popular brands",
+  "homepage": "https://svgicons.khulnasoft.com/",
+  "keywords": [
+    "svg",
+    "icons"
+  ],
+  "support": {
+    "issues": "https://github.com/khulnasoft-lab/svg-icons/issues",
+    "source": "https://github.com/khulnasoft-lab/svg-icons",
+    "docs": "https://github.com/khulnasoft-lab/svg-icons#php-usage-"
+  },
+  "license": "CC0-1.0",
+  "funding": [
+    {
+      "type": "opencollective",
+      "url": "https://opencollective.com/svg-icons"
+    }
+  ]
+}
