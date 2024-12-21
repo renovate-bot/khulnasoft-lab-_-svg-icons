@@ -63,7 +63,7 @@
     "@inquirer/prompts": "3.2.0",
     "chalk": "5.3.0",
     "editorconfig-checker": "5.1.1",
-    "esbuild": "0.19.4",
+    "esbuild": "0.24.2",
     "fake-diff": "1.0.0",
     "get-relative-luminance": "1.0.0",
     "husky": "8.0.3",
